@@ -1,0 +1,197 @@
+{
+  "current": {
+    "colors_accent_1": "#6d8764",
+    "colors_accent_2": "#f4d880",
+    "colors_text": "#464646",
+    "colors_outline_button_labels": "#6d8764",
+    "type_header_font": "playfair_display_n4",
+    "type_body_font": "roboto_n4",
+    "page_width": 1600,
+    "spacing_sections": 100,
+    "spacing_grid_horizontal": 16,
+    "spacing_grid_vertical": 16,
+    "buttons_radius": 40,
+    "card_style": "card",
+    "card_text_alignment": "center",
+    "card_color_scheme": "background-1",
+    "text_boxes_shadow_opacity": 30,
+    "media_shadow_vertical_offset": -40,
+    "popup_corner_radius": 4,
+    "popup_shadow_opacity": 15,
+    "popup_shadow_horizontal_offset": 6,
+    "popup_shadow_vertical_offset": 10,
+    "popup_shadow_blur": 15,
+    "badge_position": "top left",
+    "accent_icons": "outline-button",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "favicon": "shopify:\/\/shop_images\/Soffy_logo_reverse.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Soffy_logo_reverse.png",
+    "checkout_heading_font": "Open Sans",
+    "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#464646",
+    "checkout_button_color": "#f4d880",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "50+ new lines added to clearance!",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/Soffy_logo_reverse.png",
+          "logo_width": 90,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true,
+          "margin_bottom": 0
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "192748c2-c815-4785-8adb-68335a53cd29": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Soffy_logo_reverse.png",
+              "image_width": 130,
+              "alignment": ""
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "main-menu"
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Policies",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "192748c2-c815-4785-8adb-68335a53cd29",
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": true,
+          "margin_top": 0,
+          "padding_top": 88,
+          "padding_bottom": 36
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo_width": 90
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Info"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social": true,
+            "enable_country_selector": false,
+            "enable_language_selector": false,
+            "margin_top": 48
+          }
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+          }
+        }
+      }
+    }
+  }
+}

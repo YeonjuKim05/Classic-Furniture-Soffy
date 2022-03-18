@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "large"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hesse.png",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eye catching Headline",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "16467305416971f8e3": {
+      "type": "collection-list",
+      "blocks": {
+        "164673054174478e2e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "2-seat-sofa"
+          }
+        },
+        "164673054174478e2e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "2-seater-sofas"
+          }
+        },
+        "164673054174478e2e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "4-seater-sofas"
+          }
+        }
+      },
+      "block_order": [
+        "164673054174478e2e-0",
+        "164673054174478e2e-1",
+        "164673054174478e2e-2"
+      ],
+      "settings": {
+        "title": "Shop by Size",
+        "image_ratio": "portrait",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "show_view_all": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16467310700d50101b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16467310700ea81dbb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Inspired",
+            "heading_size": "h1"
+          }
+        },
+        "16467310700ea81dbb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspire your space. Your life will become richer and more relaxed. You can get styling tips, and find novel ideas to change your home.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16467310700ea81dbb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View More",
+            "button_link": "shopify:\/\/blogs\/get-inspired-and-refresh-your-space"
+          }
+        }
+      },
+      "block_order": [
+        "16467310700ea81dbb-0",
+        "16467310700ea81dbb-1",
+        "16467310700ea81dbb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sidekix-media-4-7s995Kv1U-unsplash.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164673107419a21689": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Most Popular",
+        "collection": "top-design",
+        "products_to_show": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "16467311789712b19c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Sales",
+        "collection": "item-for-sale",
+        "products_to_show": 4,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164673121872282c5a": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646731271e313fbaa": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sss_585d6fb8-1c65-458b-a068-1d0ef9604c70.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16467313239f4658b0": {
+      "type": "newsletter",
+      "blocks": {
+        "1646731323f08bb517-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1646731323f08bb517-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1646731323f08bb517-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1646731323f08bb517-0",
+        "1646731323f08bb517-1",
+        "1646731323f08bb517-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "164673128698ae8300": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "color_scheme": "background-2",
+        "padding_top": 84,
+        "padding_bottom": 84
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "16467305416971f8e3",
+    "16467310700d50101b",
+    "164673107419a21689",
+    "16467311789712b19c",
+    "164673121872282c5a",
+    "1646731271e313fbaa",
+    "16467313239f4658b0",
+    "164673128698ae8300"
+  ]
+}

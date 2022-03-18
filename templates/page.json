@@ -1,0 +1,241 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16468834018e180eeb": {
+      "type": "image-banner",
+      "blocks": {
+        "158d70d9-083f-46a1-a60b-888b040daff7": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "158d70d9-083f-46a1-a60b-888b040daff7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16468834850f1b6d8e": {
+      "type": "rich-text",
+      "blocks": {
+        "164688348596e5f302-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are happy to bring you a comfort in your life.",
+            "heading_size": "h1"
+          }
+        },
+        "164688348596e5f302-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We constantly research to make modern and long-lasting products.<br\/>All products will be shipped free of charge and will not let you wait long. Enjoy the comfort with us.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164688348596e5f302-0",
+        "164688348596e5f302-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1646889809789156e1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16468898098015b2cb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Delicate and direct.",
+            "heading_size": "h1"
+          }
+        },
+        "16468898098015b2cb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Soffy handles only the best products and studies to create a luxurious mood based on modern design. Our experts work more precisely on the invisible parts and obsess over the details to create long-lasting products.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16468898098015b2cb-0",
+        "16468898098015b2cb-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/w.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "16468898824b22ef34": {
+      "type": "image-with-text",
+      "blocks": {
+        "1646889882913f112a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We respect our belief.",
+            "heading_size": "h1"
+          }
+        },
+        "1646889882913f112a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nothing beats our hearts like a wonderful design. That's why we continue to develop. We compete with innovative technologies and designs that contain our personalities. This is why only works considering your space can continue to be loved.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1646889882913f112a-0",
+        "1646889882913f112a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sven-brandsma-jxbdO7YXL8Y-unsplash.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "1646889885b54659aa": {
+      "type": "image-banner",
+      "blocks": {
+        "16468898852ae87e9f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designed with Love.",
+            "heading_size": "medium"
+          }
+        },
+        "16468898852ae87e9f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16468898852ae87e9f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get Inspired",
+            "button_link_1": "shopify:\/\/blogs\/get-inspired-and-refresh-your-space",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/collections",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16468898852ae87e9f-0",
+        "16468898852ae87e9f-1",
+        "16468898852ae87e9f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/susan-wilkinson-yLMkby_4H3s-unsplash.jpg",
+        "image_2": "shopify:\/\/shop_images\/michiel-annaert-5lLLAxNpAys-unsplash.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164688994568a6cbf8": {
+      "type": "newsletter",
+      "blocks": {
+        "16468899454bdf56df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "16468899454bdf56df-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16468899454bdf56df-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16468899454bdf56df-0",
+        "16468899454bdf56df-1",
+        "16468899454bdf56df-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 48
+      }
+    },
+    "16468901698893efba": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "color_scheme": "background-2",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16468834018e180eeb",
+    "16468834850f1b6d8e",
+    "1646889809789156e1",
+    "16468898824b22ef34",
+    "1646889885b54659aa",
+    "164688994568a6cbf8",
+    "16468901698893efba"
+  ]
+}
