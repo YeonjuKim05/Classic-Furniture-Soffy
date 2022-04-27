@@ -292,8 +292,12 @@
     <!-- gift wrapping -->
     <div class="giftwrap">
       <input id="gift_wrapping" type="checkbox" name="attributes[gift_wrap]" value="yes">
-      <label for="gift-wrapping">{{ 'templates.cart.gift_wrap' | t }}</label>
+      <label for="gift-wrapping">{{ 'templates.cart.gift_wrap' | n }}</label>
     </div>
+
+    <!-- delivery date -->
+
+    {% render 'delivery-date' %}
 
 
     <p class="visually-hidden" id="cart-live-region-text" aria-live="polite" role="status"></p>
