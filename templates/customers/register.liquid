@@ -113,6 +113,17 @@
         {{ form.errors.translated_fields['password'] | capitalize }} {{ form.errors.messages['password'] }}.
       </span>
     {%- endif -%}
+    
+    <!-- email consent -->
+    <div class="accepts-marketing">
+      <!-- <input type="hidden" name="customer[accepts_marketing]" value="" /> -->
+  
+      <input id="accepts-marketing" type="checkbox" name="customer[accepts_marketing]" />
+      <label for="accepts-marketing">{{'customer.register.email_consent' | t}}</label>
+    </div>
+
+    
+
     <button>
       {{ 'customer.register.submit' | t }}
     </button>

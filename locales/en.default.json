@@ -388,7 +388,8 @@
       "last_name": "Last name",
       "email": "Email",
       "password": "Password",
-      "submit": "Create"
+      "submit": "Create",
+      "email_consent": "I would like to receive Gentle Monster newsletter"
     },
     "reset_password": {
       "title": "Reset account password",
