@@ -11,11 +11,9 @@
           }
         }
       },
-      "block_order": [
-        "16468903571974ebaa-0"
-      ],
+      "block_order": ["16468903571974ebaa-0"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/jason-wang-NxAwryAbtIw-unsplash_1.jpg",
+        "image": "shopify://shop_images/jason-wang-NxAwryAbtIw-unsplash_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -38,8 +36,5 @@
       }
     }
   },
-  "order": [
-    "16468903570d47cd4d",
-    "form"
-  ]
+  "order": ["16468903570d47cd4d", "form"]
 }
