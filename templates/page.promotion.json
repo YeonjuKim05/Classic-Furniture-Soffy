@@ -8,8 +8,57 @@
         "padding_bottom": 28
       }
     },
+    "1651232631ee3ba727": {
+      "type": "image-banner",
+      "blocks": {
+        "1651232631592302df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "2022 Spring Sale",
+            "heading_size": "large"
+          }
+        },
+        "1651232631592302df-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1651232631592302df-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651232631592302df-0",
+        "1651232631592302df-1",
+        "1651232631592302df-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_04a99462-1433-4016-bd01-09dd7194ab56.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16468834850f1b6d8e": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "164688348596e5f302-0": {
           "type": "heading",
@@ -38,6 +87,7 @@
     },
     "1646889809789156e1": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16468898098015b2cb-0": {
           "type": "heading",
@@ -74,6 +124,7 @@
     },
     "16468898824b22ef34": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1646889882913f112a-0": {
           "type": "heading",
@@ -110,6 +161,7 @@
     },
     "1646889885b54659aa": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16468898852ae87e9f-0": {
           "type": "heading",
@@ -202,6 +254,7 @@
   },
   "order": [
     "main",
+    "1651232631ee3ba727",
     "16468834850f1b6d8e",
     "1646889809789156e1",
     "16468898824b22ef34",
