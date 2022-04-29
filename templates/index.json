@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -29,13 +29,9 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
+      "block_order": ["heading", "text", "button"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/amira-aboalnaga-f9O-1eKGlQM-unsplash.jpg",
+        "image": "shopify://shop_images/amira-aboalnaga-f9O-1eKGlQM-unsplash.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -54,14 +50,12 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "We're making our philosophy and our story",
+            "heading": "We're making our philosophy",
             "heading_size": "h1"
           }
         }
       },
-      "block_order": [
-        "heading"
-      ],
+      "block_order": ["heading"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -119,7 +113,7 @@
         "16467310700ea81dbb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspire your space. Your life will become richer and more relaxed. You can get styling tips, and find novel ideas to change your home.<\/p>",
+            "text": "<p>Inspire your space. Your life will become richer and more relaxed. You can get styling tips, and find novel ideas to change your home.</p>",
             "text_style": "body"
           }
         },
@@ -127,7 +121,7 @@
           "type": "button",
           "settings": {
             "button_label": "View More",
-            "button_link": "shopify:\/\/blogs\/news\/get-inspired"
+            "button_link": "shopify://blogs/news/get-inspired"
           }
         }
       },
@@ -137,7 +131,7 @@
         "16467310700ea81dbb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sidekix-media-4-7s995Kv1U-unsplash.jpg",
+        "image": "shopify://shop_images/sidekix-media-4-7s995Kv1U-unsplash.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -202,7 +196,7 @@
     "1646731271e313fbaa": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/sss_585d6fb8-1c65-458b-a068-1d0ef9604c70.jpg",
+        "image": "shopify://shop_images/sss_585d6fb8-1c65-458b-a068-1d0ef9604c70.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -227,13 +221,12 @@
         "1646731323f08bb517-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "1646731323f08bb517-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [

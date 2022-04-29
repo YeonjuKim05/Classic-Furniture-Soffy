@@ -106,7 +106,7 @@
       "description": "Description",
       "on_sale": "Sale",
       "product_variants": "Product variants",
-      "pdf_file": "Download PDF",
+      "pdf_file": "Download Image",
       "media": {
         "gallery_viewer": "Gallery Viewer",
         "load_image": "Load image {{ index }} in gallery view",
@@ -198,7 +198,7 @@
     },
     "cart": {
       "cart": "Cart",
-      "gift_wrap": "I would like my purchase gift wrapper"
+      "gift_wrap": "I would like to receive a magazine together"
     },
     "contact": {
       "form": {
