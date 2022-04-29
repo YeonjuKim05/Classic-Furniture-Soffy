@@ -26,6 +26,31 @@
         "show_text_below": false
       }
     },
+    "16512324026110f03c": {
+      "type": "rich-text",
+      "blocks": {
+        "1651232402df3cc1c0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us!",
+            "heading_size": "h1"
+          }
+        },
+        "1651232402df3cc1c0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We always love hearing from you.</p>"
+          }
+        }
+      },
+      "block_order": ["1651232402df3cc1c0-0", "1651232402df3cc1c0-1"],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -36,5 +61,5 @@
       }
     }
   },
-  "order": ["16468903570d47cd4d", "form"]
+  "order": ["16468903570d47cd4d", "16512324026110f03c", "form"]
 }
